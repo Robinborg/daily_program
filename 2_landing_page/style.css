@@ -1,0 +1,9 @@
+.scroll-up{
+	position: fixed;
+	right: 0.5%;
+	bottom: 3%;
+	cursor: pointer;
+}
+div{
+	font-size: 150px;
+}
