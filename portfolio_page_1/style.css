@@ -1,0 +1,23 @@
+*{
+	background-color: #3B4252;
+	color: #ECEFF4;
+	font-family: Helvetica; 
+}
+.header-group{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	gap: 400px;
+}
+
+.project-display{
+	margin-top: 300px;
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+}
+
+.project-box{
+	border: 2px solid #ECEFF4;
+}
+
