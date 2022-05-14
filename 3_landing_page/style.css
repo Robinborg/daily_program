@@ -1,0 +1,56 @@
+body {
+	background-color: #D8DEE9
+}
+a {
+	text-decoration: none;
+	font-size: 15px;
+}
+div {
+	font-family: helvetica;
+}
+.first {
+	background-color: grey;
+	width: 500px;
+	height: 500px;
+	margin-left: 400px;
+	text-align: center;
+	box-shadow: 2px 2px 2px;
+}
+.invoice {
+	background-color: #3B4252;
+	width: 400px;
+	height: 400px;
+	color: white;
+	text-align:center;
+	margin-top: -400px;
+	margin-left: 10px;
+}
+.notes{
+	background-color: #3B4252;
+	width: 400px;
+	height: 400px;
+	color: white;
+	text-align:center;
+	margin-top: -100px;
+	margin-left: 100px;
+}
+.portfolio{
+	background-color: #3B4252;
+	width: 400px;
+	height: 400px;
+	color: white;
+	text-align:center;
+	margin-top: -400px;
+	margin-left: 1000px;
+}
+.second {
+	background-color: #4C566A;
+	width: 200px;
+	height: 200px;
+	box-shadow: 2px 2px 2px;
+	margin-top: -300px;
+	margin-left: 420px;
+	text-align: center;
+	align-items: center;
+}
+
