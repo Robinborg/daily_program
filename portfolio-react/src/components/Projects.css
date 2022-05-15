@@ -1,0 +1,22 @@
+.background-projects{
+	background-color: #2E3440;
+	width: auto;
+	height: 400px;
+}
+
+.project-box {
+	padding: 100px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	align-items: center;
+}
+
+.project-item {
+	line-height: 100px;
+	text-align: center;
+	box-shadow: 0 0 3px grey;
+	color: #D8DEE9;
+	height: 200px;
+	width: 200px;
+}
