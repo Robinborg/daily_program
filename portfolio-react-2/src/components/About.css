@@ -1,0 +1,14 @@
+.primary-block {
+	background-color: #4C566A;
+	height: 400px;
+	color: #D8DEE9;
+}
+.secondary-block {
+	background-color: #2E3440;
+	margin-left: 150px;
+	padding-left: 100px;
+	height: 300px;
+	width: 400px;
+	color: #D8DEE9;
+	box-shadow: 0 0 3px #D8DEE9;
+}
