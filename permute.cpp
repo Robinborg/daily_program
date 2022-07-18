@@ -6,7 +6,6 @@ using std::cout;
 using std::endl;
 using std::string;
 
-
 void permute(string strs, int l, int r) {
    if (l == r)
       cout << strs << endl;
@@ -18,7 +17,6 @@ void permute(string strs, int l, int r) {
      }
    }
 }
-
 int main() {
    string some_strs = "c+-";
    int n = some_strs.size();
