@@ -1,0 +1,15 @@
+/Users/coalchewer/code/daily_program/first-csharp/obj/Debug/net6.0/first-csharp.csproj.AssemblyReference.cache
+/Users/coalchewer/code/daily_program/first-csharp/obj/Debug/net6.0/first-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/coalchewer/code/daily_program/first-csharp/obj/Debug/net6.0/first-csharp.AssemblyInfoInputs.cache
+/Users/coalchewer/code/daily_program/first-csharp/obj/Debug/net6.0/first-csharp.AssemblyInfo.cs
+/Users/coalchewer/code/daily_program/first-csharp/obj/Debug/net6.0/first-csharp.csproj.CoreCompileInputs.cache
+/Users/coalchewer/code/daily_program/first-csharp/bin/Debug/net6.0/first-csharp
+/Users/coalchewer/code/daily_program/first-csharp/bin/Debug/net6.0/first-csharp.deps.json
+/Users/coalchewer/code/daily_program/first-csharp/bin/Debug/net6.0/first-csharp.runtimeconfig.json
+/Users/coalchewer/code/daily_program/first-csharp/bin/Debug/net6.0/first-csharp.dll
+/Users/coalchewer/code/daily_program/first-csharp/bin/Debug/net6.0/first-csharp.pdb
+/Users/coalchewer/code/daily_program/first-csharp/obj/Debug/net6.0/first-csharp.dll
+/Users/coalchewer/code/daily_program/first-csharp/obj/Debug/net6.0/refint/first-csharp.dll
+/Users/coalchewer/code/daily_program/first-csharp/obj/Debug/net6.0/first-csharp.pdb
+/Users/coalchewer/code/daily_program/first-csharp/obj/Debug/net6.0/first-csharp.genruntimeconfig.cache
+/Users/coalchewer/code/daily_program/first-csharp/obj/Debug/net6.0/ref/first-csharp.dll
