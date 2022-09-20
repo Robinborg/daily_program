@@ -1,0 +1,5 @@
+/Users/coalchewer/code/daily_program/bubbleSort/obj/Debug/net6.0/bubbleSort.csproj.AssemblyReference.cache
+/Users/coalchewer/code/daily_program/bubbleSort/obj/Debug/net6.0/bubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/coalchewer/code/daily_program/bubbleSort/obj/Debug/net6.0/bubbleSort.AssemblyInfoInputs.cache
+/Users/coalchewer/code/daily_program/bubbleSort/obj/Debug/net6.0/bubbleSort.AssemblyInfo.cs
+/Users/coalchewer/code/daily_program/bubbleSort/obj/Debug/net6.0/bubbleSort.csproj.CoreCompileInputs.cache
