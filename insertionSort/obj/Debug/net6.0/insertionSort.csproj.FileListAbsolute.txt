@@ -1,0 +1,15 @@
+/Users/coalchewer/code/daily_program/insertionSort/obj/Debug/net6.0/insertionSort.csproj.AssemblyReference.cache
+/Users/coalchewer/code/daily_program/insertionSort/obj/Debug/net6.0/insertionSort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/coalchewer/code/daily_program/insertionSort/obj/Debug/net6.0/insertionSort.AssemblyInfoInputs.cache
+/Users/coalchewer/code/daily_program/insertionSort/obj/Debug/net6.0/insertionSort.AssemblyInfo.cs
+/Users/coalchewer/code/daily_program/insertionSort/obj/Debug/net6.0/insertionSort.csproj.CoreCompileInputs.cache
+/Users/coalchewer/code/daily_program/insertionSort/bin/Debug/net6.0/insertionSort
+/Users/coalchewer/code/daily_program/insertionSort/bin/Debug/net6.0/insertionSort.deps.json
+/Users/coalchewer/code/daily_program/insertionSort/bin/Debug/net6.0/insertionSort.runtimeconfig.json
+/Users/coalchewer/code/daily_program/insertionSort/bin/Debug/net6.0/insertionSort.dll
+/Users/coalchewer/code/daily_program/insertionSort/bin/Debug/net6.0/insertionSort.pdb
+/Users/coalchewer/code/daily_program/insertionSort/obj/Debug/net6.0/insertionSort.dll
+/Users/coalchewer/code/daily_program/insertionSort/obj/Debug/net6.0/refint/insertionSort.dll
+/Users/coalchewer/code/daily_program/insertionSort/obj/Debug/net6.0/insertionSort.pdb
+/Users/coalchewer/code/daily_program/insertionSort/obj/Debug/net6.0/insertionSort.genruntimeconfig.cache
+/Users/coalchewer/code/daily_program/insertionSort/obj/Debug/net6.0/ref/insertionSort.dll
